@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    padding-top: 18px;
+    padding-bottom: 19px;
+    background: #222222;
+}
+
+
+.breadcrumb {
+    padding-top: 59px;
+    padding-bottom: 60px;
+    background: #F8F3F4;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+color: #F16D7F;
+
+}
+
+.nav-menyu {
+    padding-top: 111px;
+}
